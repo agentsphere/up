@@ -11,8 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.agentsphere.cloud
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status Agentsphere Services
-  introTitle: "Status & Uptime for Agentsphere Services"
+  name: Status AgentSphere Services
+  introTitle: "Status & Uptime for AgentSphere Services"
   introMessage: >
     This page provides the latest uptime information and real-time monitoring data 
     for all **Agentsphere** services. Our goal is to ensure transparency and keep 
@@ -22,6 +22,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Support
+      href: https://agentsphere.atlassian.net/servicedesk/customer/portal/1
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
